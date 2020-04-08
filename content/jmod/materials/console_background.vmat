@@ -1,0 +1,15 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "unlit.vfx"
+
+	//---- Aspect Fill ----
+	F_ASPECT_FILL_FROM_CENTER 1
+
+	//---- Aspect Fill ----
+	g_vImageAspectRatio "[4.000 3.000]"
+
+	//---- Color ----
+	TextureColor "materials/console_background_not_valve_please_stop_complaining_color.tga"
+}

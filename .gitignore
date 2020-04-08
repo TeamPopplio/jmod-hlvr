@@ -1,0 +1,22 @@
+## Ignoring Source2 core/hlvr content and non-persistent temporary files
+
+/content/_toolsautosave/*
+/content/hlvr/*
+/content/jmod/_bakeresourcecache/*
+/game/_toolsettings/*
+/game/bin/*
+/game/core/*
+/game/hlvr/*
+/game/jmod/_bakeresourcecache/*
+/game/jmod/_vrad3/*
+/game/jmod/SAVE/*
+/game/jmod/demoheader.tmp
+/game/jmod/stats.txt
+/game/jmod/tools_asset_info.bin
+/game/jmod/tools_thumbnail_cache.bin
+
+# Repack the VPK file using the contents in /pack/
+/game/jmod/jamie.vpk
+
+# Temporary files
+*_bakeresourcecache.vpk
