@@ -20,3 +20,9 @@
 
 # Temporary files
 *_bakeresourcecache.vpk
+
+# Other projects
+/game/infected/*
+/content/infected/*
+/game/elevator/*
+/content/elevator/*
