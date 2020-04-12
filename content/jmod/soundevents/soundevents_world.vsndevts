@@ -3363,8 +3363,66 @@
 		vsnd_files = 
 		[
 			"sounds/barney/ba_later.vsnd",
-			"sounds/barney/ba_post.vsnd"
+			"sounds/barney/ba_post.vsnd",
+			"sounds/barney/ba_duty.vsnd",
+			"sounds/barney/ba_raincheck.vsnd"
 		]
+	}
+	Jamie.Scientist.Use = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = [
+			"sounds/scientist/loveyou1.vsnd",
+			"sounds/scientist/loveyou2.vsnd",
+			"sounds/scientist/lookverynice.vsnd",
+			"sounds/scientist/likeyourshirt.vsnd",
+			"sounds/scientist/jobrunt.vsnd",
+			"sounds/scientist/hey.vsnd"
+		]
+	}
+	Jamie.Scientist.Hurt = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = [
+			"sounds/scientist/sci_pain1.vsnd",
+			"sounds/scientist/sci_pain2.vsnd",
+			"sounds/scientist/sci_pain3.vsnd",
+			"sounds/scientist/sci_pain4.vsnd",
+			"sounds/scientist/sci_pain5.vsnd",
+			"sounds/scientist/sci_pain6.vsnd",
+			"sounds/scientist/sci_pain7.vsnd",
+			"sounds/scientist/sci_pain8.vsnd",
+			"sounds/scientist/sci_pain9.vsnd",
+			"sounds/scientist/sci_pain10.vsnd"
+		]
+	}
+	Jamie.Scientist.Die = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = 
+		[
+			"sounds/scientist/sci_die1.vsnd",
+			"sounds/scientist/sci_die2.vsnd",
+			"sounds/scientist/sci_die3.vsnd",
+			"sounds/scientist/sci_die4.vsnd"
+		]
+	}
+	Jamie.Scientist.GetAway = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/c1a0_sci_getaway.vsnd"
 	}
 	HL1.ambience.techamb1 = 
 	{
@@ -3373,6 +3431,62 @@
 		use_hrtf = 1.000000
 		mixgroup = "World"
 		vsnd_files = "sounds/ambience/techamb1.vsnd"
+	}
+	HL1.doors.doormove1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/doormove1.vsnd"
+	}
+	HL1.doors.doormove3 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/doormove3.vsnd"
+	}
+	HL1.doors.doorstop2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/doorstop2.vsnd"
+	}
+	HL1.doors.doorstop6 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/doorstop6.vsnd"
+	}
+	HL1.doors.doorstop7 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/doorstop7.vsnd"
+	}
+	HL1.buttons.blip2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/blip2.vsnd"
+	}
+	HL1.ambience.signalgear2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/signalgear2.vsnd"
 	}
 	hlvr.global_stack = 
 	{

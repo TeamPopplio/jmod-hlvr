@@ -258,6 +258,20 @@
 			]
 		},
 		{
+			asset = "materials/blank_ao.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/blank_ao_png_6de397e9.vtex"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "materials/blank_normal.png"
 			tag_ids = 
 			[
@@ -2022,6 +2036,27 @@
 			]
 		},
 		{
+			asset = "materials/halflife/c1a1dooredge.vmat"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/c1a1dooredge_color.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/c1a1dooredge_color_png_3f41b1a9.vtex"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "materials/halflife/c1a1sign2a.vmat"
 			tag_ids = 
 			[
@@ -2617,6 +2652,34 @@
 			]
 		},
 		{
+			asset = "materials/halflife/gratestep2.vmat"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/gratestep2_color.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/gratestep2_color_png_3ab1415d.vtex"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/gratestep2_trans.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "materials/halflife/lab1_b4.vmat"
 			tag_ids = 
 			[
@@ -2834,6 +2897,27 @@
 			]
 		},
 		{
+			asset = "materials/halflife/lab1_door2a.vmat"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/lab1_door2a_color.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/lab1_door2a_color_png_72112db2.vtex"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "materials/halflife/lab1_flr10.vmat"
 			tag_ids = 
 			[
@@ -2870,6 +2954,48 @@
 		},
 		{
 			asset = "materials/halflife/lab1_gdpnl5b_color_png_f2c6b72a.vtex"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/lab1_gear2.vmat"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/lab1_gear2_color.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/lab1_gear2_color_png_4055bd1a.vtex"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/lab1_gear3.vmat"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/lab1_gear3_color.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/lab1_gear3_color_png_809056d1.vtex"
 			tag_ids = 
 			[
 				"jamie",
@@ -9130,6 +9256,13 @@
 			]
 		},
 		{
+			asset = "models/coolshirts/aa420e47/run_stimulated.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "models/coolshirts/aa420e47/smlflinch.vanim"
 			tag_ids = 
 			[
@@ -9145,6 +9278,27 @@
 		},
 		{
 			asset = "models/coolshirts/aa420e47/walk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/coolshirts/aa420e47/walk_n.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/coolshirts/aa420e47/walk_stimulated.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/coolshirts/anims/walk_s.smd"
 			tag_ids = 
 			[
 				"jamie",
@@ -19775,7 +19929,70 @@
 			]
 		},
 		{
+			asset = "models/scientist/scientist_jamiespike.vphys"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_jamiespike_987f32d5.vmesh"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_jamiespike_d49b529c.vmesh"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_jamiespike_ee36974b.vagrp"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "models/scientist/scientist_stewy.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_stewy.vmdl"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_stewy.vphys"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_stewy_65a7584a.vmesh"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_stewy_d49b529c.vmesh"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_stewy_fb5a7964.vagrp"
 			tag_ids = 
 			[
 				"jamie",
@@ -19789,7 +20006,3794 @@
 			]
 		},
 		{
+			asset = "models/scientist/scientist_toby.vmdl"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_toby.vphys"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_toby_5a0a4cae.vagrp"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_toby_65a7584a.vmesh"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "models/scientist/scientist_tom.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_tom.vmdl"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_tom.vphys"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_tom_23d0b689.vagrp"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/scientist_tom_4add47c2.vmesh"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/180_left.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/180_right.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/backslide.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/barnacled1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/barnacled2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/barnacled3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/barnacled4.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/beatdoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/buysoda.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/c1a0_catwalk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/c1a0_catwalkidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/c1a4_dying_speech.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/c1a4_wounded_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/casualroll.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/ceiling_dangle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/checktie.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/coffee.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/console.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/converse1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/converse2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/cowering_in_corner.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/cprscientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/cprscientistrevive.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/crawlwindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/crouch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/crouch_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/crouch_idle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/crouch_idle3_1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/crouch_idle3_2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/crouchstand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/dead_sitting.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/dead_table1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/dead_table2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/dead_table3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/deskidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/diebackward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/dieforward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/dieforward1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/diesimple.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/divewindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/dryhands.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/eye_wipe.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/fall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/fall_elevator.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/fallingloop.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/fear1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/fear2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/flinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/flinch1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/franticbutton.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/give_shot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/gluonshow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/gutshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/handrail.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/handrailidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/hanging_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/hanging_idle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/haulscientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/headcrabbed.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/headshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/helicack.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/ickyjump_sci.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/idle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/idle3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/idle4.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/idle5.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/idle6.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/idle7.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/keypad.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/kneel.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/laflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/lean.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/llflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/locked_door.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/lookouy.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/lookwindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/lying_on_back.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/lying_on_stomach.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/no.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/onguard.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/panic.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/panic1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/pause.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/pondering.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/pondering2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/pondering3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/portal.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/pull_needle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/pulldoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/push_button.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/push_button2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/quicklook.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/raflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/retina.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/return_needle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/rlflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/rocketcrawl.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/run.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/run1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/run2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/scicrash.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/scicrashidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/scientist_get_pulled.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/scientist_idlewall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/scram.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/seeya.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/sitidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/sitlookleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/sitlookright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/sitscared.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/sitstand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/sitting2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/sitting3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/sstruggle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/sstruggleidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/startle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/studycart.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/talkleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/talkright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/tentacle_grab.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/tieshoe.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/unlock_door.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/ventpull1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/ventpull2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/ventpullidle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/ventpullidle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/walk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/walk_2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/walk_scared.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/wave.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/windive.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/writeboard.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/23d0b689/yes.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/180_left.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/180_right.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/backslide.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/barnacled1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/barnacled2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/barnacled3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/barnacled4.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/beatdoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/buysoda.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/c1a0_catwalk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/c1a0_catwalkidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/c1a4_dying_speech.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/c1a4_wounded_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/casualroll.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/ceiling_dangle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/checktie.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/coffee.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/console.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/converse1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/converse2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/cowering_in_corner.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/cprscientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/cprscientistrevive.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/crawlwindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/crouch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/crouch_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/crouch_idle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/crouch_idle3_1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/crouch_idle3_2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/crouchstand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/dead_sitting.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/dead_table1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/dead_table2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/dead_table3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/deskidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/diebackward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/dieforward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/dieforward1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/diesimple.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/divewindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/dryhands.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/eye_wipe.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/fall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/fall_elevator.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/fallingloop.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/fear1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/fear2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/flinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/flinch1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/franticbutton.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/give_shot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/gluonshow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/gutshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/handrail.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/handrailidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/hanging_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/hanging_idle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/haulscientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/headcrabbed.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/headshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/helicack.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/ickyjump_sci.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/idle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/idle3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/idle4.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/idle5.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/idle6.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/idle7.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/keypad.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/kneel.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/laflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/lean.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/llflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/locked_door.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/lookouy.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/lookwindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/lying_on_back.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/lying_on_stomach.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/no.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/onguard.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/panic.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/panic1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/pause.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/pondering.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/pondering2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/pondering3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/portal.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/pull_needle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/pulldoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/push_button.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/push_button2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/quicklook.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/raflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/retina.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/return_needle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/rlflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/rocketcrawl.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/run.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/run1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/run2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/scicrash.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/scicrashidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/scientist_get_pulled.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/scientist_idlewall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/scram.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/seeya.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/sitidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/sitlookleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/sitlookright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/sitscared.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/sitstand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/sitting2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/sitting3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/sstruggle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/sstruggleidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/startle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/studycart.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/talkleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/talkright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/tentacle_grab.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/tieshoe.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/unlock_door.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/ventpull1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/ventpull2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/ventpullidle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/ventpullidle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/walk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/walk_2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/walk_scared.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/wave.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/windive.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/writeboard.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/5a0a4cae/yes.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/180_left.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/180_right.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/backslide.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/barnacled1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/barnacled2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/barnacled3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/barnacled4.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/beatdoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/buysoda.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/c1a0_catwalk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/c1a0_catwalkidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/c1a4_dying_speech.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/c1a4_wounded_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/casualroll.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/ceiling_dangle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/checktie.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/coffee.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/console.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/converse1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/converse2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/cowering_in_corner.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/cprscientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/cprscientistrevive.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/crawlwindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/crouch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/crouch_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/crouch_idle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/crouch_idle3_1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/crouch_idle3_2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/crouchstand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/dead_sitting.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/dead_table1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/dead_table2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/dead_table3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/deskidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/diebackward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/dieforward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/dieforward1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/diesimple.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/divewindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/dryhands.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/eye_wipe.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/fall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/fall_elevator.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/fallingloop.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/fear1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/fear2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/flinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/flinch1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/franticbutton.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/give_shot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/gluonshow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/gutshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/handrail.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/handrailidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/hanging_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/hanging_idle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/haulscientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/headcrabbed.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/headshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/helicack.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/ickyjump_sci.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/idle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/idle3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/idle4.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/idle5.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/idle6.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/idle7.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/keypad.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/kneel.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/laflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/lean.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/llflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/locked_door.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/lookouy.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/lookwindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/lying_on_back.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/lying_on_stomach.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/no.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/onguard.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/panic.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/panic1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/pause.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/pondering.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/pondering2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/pondering3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/portal.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/pull_needle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/pulldoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/push_button.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/push_button2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/quicklook.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/raflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/retina.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/return_needle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/rlflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/rocketcrawl.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/run.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/run1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/run2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/scicrash.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/scicrashidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/scientist_get_pulled.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/scientist_idlewall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/scram.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/seeya.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/sitidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/sitlookleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/sitlookright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/sitscared.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/sitstand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/sitting2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/sitting3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/sstruggle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/sstruggleidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/startle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/studycart.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/talkleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/talkright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/tentacle_grab.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/tieshoe.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/unlock_door.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/ventpull1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/ventpull2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/ventpullidle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/ventpullidle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/walk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/walk_2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/walk_n.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/walk_scared.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/wave.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/windive.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/writeboard.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/ee36974b/yes.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/180_left.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/180_right.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/backslide.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/barnacled1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/barnacled2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/barnacled3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/barnacled4.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/beatdoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/buysoda.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/c1a0_catwalk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/c1a0_catwalkidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/c1a4_dying_speech.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/c1a4_wounded_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/casualroll.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/ceiling_dangle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/checktie.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/coffee.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/console.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/converse1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/converse2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/cowering_in_corner.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/cprscientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/cprscientistrevive.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/crawlwindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/crouch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/crouch_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/crouch_idle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/crouch_idle3_1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/crouch_idle3_2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/crouchstand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/dead_sitting.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/dead_table1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/dead_table2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/dead_table3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/deskidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/diebackward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/dieforward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/dieforward1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/diesimple.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/divewindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/dryhands.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/eye_wipe.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/fall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/fall_elevator.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/fallingloop.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/fear1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/fear2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/flinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/flinch1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/franticbutton.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/give_shot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/gluonshow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/gutshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/handrail.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/handrailidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/hanging_idle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/hanging_idle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/haulscientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/headcrabbed.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/headshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/helicack.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/ickyjump_sci.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/idle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/idle3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/idle4.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/idle5.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/idle6.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/idle7.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/keypad.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/kneel.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/laflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/lean.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/llflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/locked_door.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/lookouy.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/lookwindow.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/lying_on_back.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/lying_on_stomach.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/no.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/onguard.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/panic.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/panic1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/pause.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/pondering.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/pondering2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/pondering3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/portal.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/pull_needle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/pulldoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/push_button.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/push_button2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/quicklook.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/raflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/retina.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/return_needle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/rlflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/rocketcrawl.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/run.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/run1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/run2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/scicrash.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/scicrashidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/scientist_get_pulled.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/scientist_idlewall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/scram.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/seeya.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/sitidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/sitlookleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/sitlookright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/sitscared.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/sitstand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/sitting2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/sitting3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/sstruggle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/sstruggleidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/startle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/studycart.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/talkleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/talkright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/tentacle_grab.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/tieshoe.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/unlock_door.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/ventpull1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/ventpull2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/ventpullidle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/ventpullidle2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/walk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/walk_2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/walk_scared.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/wave.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/windive.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/writeboard.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/scientist/fb5a7964/yes.vanim"
 			tag_ids = 
 			[
 				"jamie",
@@ -20893,6 +24897,13 @@
 			tag_ids = 
 			[
 				"imported",
+			]
+		},
+		{
+			asset = "panorama/localization/hlvr_english.txt"
+			tag_ids = 
+			[
+				"jamie",
 			]
 		},
 		{
@@ -22185,6 +26196,13 @@
 			]
 		},
 		{
+			asset = "sounds/ambience/signalgear2.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "sounds/ambience/techamb1.vsnd"
 			tag_ids = 
 			[
@@ -22437,6 +26455,13 @@
 			]
 		},
 		{
+			asset = "sounds/barney/ba_duty.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "sounds/barney/ba_later.vsnd"
 			tag_ids = 
 			[
@@ -22479,6 +26504,13 @@
 			]
 		},
 		{
+			asset = "sounds/barney/ba_raincheck.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "sounds/barney/ba_tomb.vsnd"
 			tag_ids = 
 			[
@@ -22508,6 +26540,13 @@
 		},
 		{
 			asset = "sounds/barney/c1a0_ba_desk.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/buttons/blip2.vsnd"
 			tag_ids = 
 			[
 				"jamie",
@@ -22727,7 +26766,7 @@
 			asset = "sounds/doors/doormove1.vsnd"
 			tag_ids = 
 			[
-				"imported",
+				"jamie",
 			]
 		},
 		{
@@ -22735,6 +26774,13 @@
 			tag_ids = 
 			[
 				"imported",
+			]
+		},
+		{
+			asset = "sounds/doors/doormove3.vsnd"
+			tag_ids = 
+			[
+				"jamie",
 			]
 		},
 		{
@@ -22749,6 +26795,27 @@
 			tag_ids = 
 			[
 				"imported",
+			]
+		},
+		{
+			asset = "sounds/doors/doorstop2.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/doors/doorstop6.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/doors/doorstop7.vsnd"
+			tag_ids = 
+			[
+				"jamie",
 			]
 		},
 		{
@@ -26410,6 +30477,153 @@
 			tag_ids = 
 			[
 				"imported",
+			]
+		},
+		{
+			asset = "sounds/scientist/c1a0_sci_getaway.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/hey.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/jobrunt.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/likeyourshirt.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/lookverynice.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/loveyou1.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/loveyou2.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_die1.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_die2.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_die3.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_die4.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain1.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain10.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain2.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain3.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain4.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain5.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain6.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain7.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain8.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/scientist/sci_pain9.vsnd"
+			tag_ids = 
+			[
+				"jamie",
 			]
 		},
 		{
