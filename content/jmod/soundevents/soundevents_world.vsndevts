@@ -3368,6 +3368,38 @@
 			"sounds/barney/ba_raincheck.vsnd"
 		]
 	}
+	Jamie.Barney.Step1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/barney/ba_step1.vsnd"
+	}
+	Jamie.Barney.Step2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/barney/ba_step2.vsnd"
+	}
+	Jamie.Barney.Step3 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/barney/ba_step3.vsnd"
+	}
+	Jamie.Barney.BeenZapped = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/barney/beenzapped.vsnd"
+	}
 	Jamie.Scientist.Use = 
 	{
 		type = "hlvr_default_3d"
@@ -3424,6 +3456,151 @@
 		mixgroup = "World"
 		vsnd_files = "sounds/scientist/c1a0_sci_getaway.vsnd"
 	}
+	Jamie.Scientist.Sample = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/c1a0_sci_samp.vsnd"
+	}
+	Jamie.Scientist.BigDay = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/c1a0_sci_bigday.vsnd"
+	}
+	Jamie.Scientist.MerryChristmas = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/c1a0_sci_gm.vsnd"
+	}
+	Jamie.Scientist.CheckTie = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/weartie.vsnd"
+	}
+	Jamie.Scientist.StayBack = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/c1a0_sci_stayback.vsnd"
+	}
+	Jamie.Scientist.Catscream_C1A0 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/c1a0_sci_catscream.vsnd"
+	}
+	Jamie.Scientist.DragOff = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/sci_dragoff.vsnd"
+	}
+	Jamie.Scientist.DarkRoom = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/c1a2_sci_darkroom.vsnd"
+	}
+	Jamie.Scientist.Scream = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = [
+			"sounds/scientist/scream1.vsnd",
+			"sounds/scientist/scream2.vsnd",
+			"sounds/scientist/scream3.vsnd",
+			"sounds/scientist/scream4.vsnd",
+			"sounds/scientist/scream5.vsnd",
+			"sounds/scientist/scream6.vsnd",
+			"sounds/scientist/scream7.vsnd",
+			"sounds/scientist/scream01.vsnd",
+			"sounds/scientist/scream02.vsnd",
+			"sounds/scientist/scream03.vsnd",
+			"sounds/scientist/scream04.vsnd",
+			"sounds/scientist/scream05.vsnd",
+			"sounds/scientist/scream06.vsnd",
+			"sounds/scientist/scream07.vsnd",
+			"sounds/scientist/scream08.vsnd",
+			"sounds/scientist/scream09.vsnd",
+			"sounds/scientist/scream10.vsnd",
+			"sounds/scientist/scream11.vsnd",
+			"sounds/scientist/scream12.vsnd",
+			"sounds/scientist/scream13.vsnd",
+			"sounds/scientist/scream14.vsnd",
+			"sounds/scientist/scream15.vsnd",
+			"sounds/scientist/scream16.vsnd",
+			"sounds/scientist/scream17.vsnd",
+			"sounds/scientist/scream18.vsnd",
+			"sounds/scientist/scream19.vsnd",
+			"sounds/scientist/scream20.vsnd",
+			"sounds/scientist/scream21.vsnd",
+			"sounds/scientist/scream22.vsnd",
+			"sounds/scientist/scream23.vsnd",
+			"sounds/scientist/scream24.vsnd",
+			"sounds/scientist/scream25.vsnd"
+		]
+	}
+	Jamie.Scientist.Dangling = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/c1a2_sci_dangling.vsnd"
+	}
+	Jamie.Scientist.Rocket = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/scientist/c1a4_sci_rocket.vsnd"
+	}
+	HL1.ambience.computalk1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/ambience/computalk1.vsnd"
+	}
+	HL1.ambience.computalk2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/ambience/computalk2.vsnd"
+	}
+	HL1.ambience.crtnoise = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/ambience/crtnoise.vsnd"
+	}
 	HL1.ambience.techamb1 = 
 	{
 		type = "hlvr_default_3d"
@@ -3472,6 +3649,14 @@
 		mixgroup = "World"
 		vsnd_files = "sounds/doors/doorstop7.vsnd"
 	}
+	HL1.buttons.blip1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/blip1.vsnd"
+	}
 	HL1.buttons.blip2 = 
 	{
 		type = "hlvr_default_3d"
@@ -3480,6 +3665,38 @@
 		mixgroup = "World"
 		vsnd_files = "sounds/doors/blip2.vsnd"
 	}
+	HL1.buttons.latchlocked1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/latchlocked1.vsnd"
+	}
+	HL1.buttons.latchlocked2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/latchlocked2.vsnd"
+	}
+	HL1.buttons.latchunlocked1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/latchunlocked1.vsnd"
+	}
+	HL1.buttons.latchunlocked2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/latchunlocked2.vsnd"
+	}
 	HL1.ambience.signalgear2 = 
 	{
 		type = "hlvr_default_3d"
@@ -3487,6 +3704,190 @@
 		use_hrtf = 1.000000
 		mixgroup = "World"
 		vsnd_files = "sounds/doors/signalgear2.vsnd"
+	}
+	HL1.ambience.vent1 =
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/doors/vent1.vsnd"
+	}
+	HL1.weapons.bullet_hit1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/weapons/bullet_hit1.vsnd"
+	}
+	HL1.weapons.bullet_hit2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/weapons/bullet_hit2.vsnd"
+	}
+	HL1.weapons.knife1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/weapons/knife1.vsnd"
+	}
+	HL1.weapons.knife2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/weapons/knife2.vsnd"
+	}
+	HL1.weapons.pwach = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/weapons/pwach.vsnd"
+	}
+	HL1.weapons.xbow_hitbod1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/weapons/xbow_hitbod1.vsnd"
+	}
+	HL1.weapons.xbow_hitbod2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/weapons/xbow_hitbod2.vsnd"
+	}
+	HL1.common.npc_step1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/common/npc_step1.vsnd"
+	}
+	HL1.common.npc_step2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/common/npc_step2.vsnd"
+	}
+	HL1.common.npc_step3 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/common/npc_step3.vsnd"
+	}
+	HL1.common.npc_step4 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/common/npc_step4.vsnd"
+	}
+	HL1.common.menu1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/common/menu1.vsnd"
+	}
+	HL1.common.menu2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/common/menu2.vsnd"
+	}
+	HL1.common.menu3 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/common/menu3.vsnd"
+	}
+	HL1.leech.leech_bite1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/leech/leech_bite1.vsnd"
+	}
+	HL1.leech.leech_bite2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/leech/leech_bite2.vsnd"
+	}
+	HL1.leech.leech_bite3 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/leech/leech_bite3.vsnd"
+	}
+	HL1.apache.ap_whine1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/apache/ap_whine1.vsnd"
+	}
+	HL1.player.pl_metal1 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/player/pl_metal1.vsnd"
+	}
+	HL1.player.pl_metal2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/player/pl_metal2.vsnd"
+	}
+	HL1.player.pl_metal3 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/player/pl_metal3.vsnd"
+	}
+	HL1.player.pl_metal4 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/player/pl_metal4.vsnd"
 	}
 	hlvr.global_stack = 
 	{

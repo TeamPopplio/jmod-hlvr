@@ -3,12 +3,12 @@ This is the start of my attempt to recreate at least one map of [Jamie's Mod](ht
 You can see a gameplay clip from one stage of development [here](https://www.youtube.com/watch?v=JMqgsJd87hE).
 
 ## What is this?
-This is a sourcemod for the [hlnonvr](https://github.com/Jan4V/hlnonvr) mod for HLVR by Jan4V. You can still run it in vr mode using the parameter ``-vr`` (provided using batch files in releases). So far some custom things that have been made in-engine include:
+This is a sourcemod for the [hlnonvr](https://github.com/Jan4V/hlnonvr) mod for HLVR. You can still run it in vr mode using the parameter ``-vr`` (provided using batch files in releases). So far some custom things that have been made in-engine include:
 * A (mostly) ported Half-Life: Source map
-* Custom models (Jamie's Barney model for example)
+* Custom models (Jamie/HL1 models)
 * Custom textures (Jamie/HL1 textures)
 * Custom sounds (Custom soundscript to include Jamie/HL1 sounds)
-* Custom NPCs (Scientists and Barney, done using ``generic_actor``)
+* Custom NPCs (Done using ``generic_actor`` and ``path_corner``)
 
 ## How do I install this?
 You must install [hlnonvr](https://github.com/Jan4V/hlnonvr) first (there should be a tutorial on the GitHub page). Afterwards, just take a release and drag the files into the ``Half-Life Alyx`` directory. You should not need to replace any files to get it to work due to the nature of sourcemods. Once that's done, just launch ``launch-jmod.bat`` or ``launch-jmod-vr.bat`` to start the game.
@@ -22,12 +22,12 @@ You'll also need to recompile /pack/ into a [VPK file](https://developer.valveso
 You can see some of my documentation by looking at the [GitHub Wiki](https://github.com/TeamPopplio/jmod-hlvr/wiki/).
 
 ## Current goals:
-* Add doors and moving parts
-* More interactable things (so far I made two HL1 books physics objects)
-* Hacking puzzles?
+* More interactable things (such as more puzzles and such)
+* Finish some NPC tracks
+* Add the lightswitch
+* Work on the next map (would like for a pure VMF importer though)
 
 ## Future goals:
-* Replace Alyx/Russell speech
-* Replace Alyx's hand models
+* Replace Alyx/Russell speech (or maybe embrace it?)
 * Replace weapon models
-* Replace stock HLVR sfx
+* Replace zombie and combine models/animations

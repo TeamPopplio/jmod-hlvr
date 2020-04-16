@@ -1,0 +1,5300 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	m_Name = "cleansuit_scientist_anims"
+	m_pBoneFlagList = 
+	{
+		m_pObject = 
+		{
+			m_boneFlag = 
+			[
+				{
+					m_sName = "Bip02"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = ""
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_pelvis"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "Bip02"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_l_leg"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_pelvis"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_l_leg1"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_l_leg"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_l_foot"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_l_leg1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_r_leg"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_pelvis"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_r_leg1"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_r_leg"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_r_foot"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_r_leg1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_spine"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip02_pelvis"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_spine1"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip02_spine"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_spine2"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip02_spine1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_neck"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip02_spine2"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_l_arm"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip02_neck"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_l_arm1"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_l_arm"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_l_arm2"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_l_arm1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_l_hand"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_l_arm2"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_r_arm"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip02_neck"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_r_arm1"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_r_arm"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_r_arm2"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_r_arm1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_r_hand"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_r_arm2"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip02_head"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip02_neck"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bone01"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip02_head"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+			]
+			m_boneWorldspace = 
+			[
+				{
+					m_name = "Bip02"
+					m_Translation = [ -0.048576, -0.001692, 36.821262 ]
+					m_Rotation = [ -0.0, -1.489232, 0.076969 ]
+				},
+				{
+					m_name = "bip02_pelvis"
+					m_Translation = [ 0.633758, -0.213384, 36.821255 ]
+					m_Rotation = [ 0.0, -89.999985, -89.999855 ]
+				},
+				{
+					m_name = "bip02_l_leg"
+					m_Translation = [ 0.633758, 3.106128, 36.821262 ]
+					m_Rotation = [ 152.620758, 87.357536, 62.687565 ]
+				},
+				{
+					m_name = "bip02_l_leg1"
+					m_Translation = [ 0.991261, 3.797101, 19.934278 ]
+					m_Rotation = [ -106.729088, 81.841476, 163.522629 ]
+				},
+				{
+					m_name = "bip02_l_foot"
+					m_Translation = [ -1.267739, 4.46519, 3.504763 ]
+					m_Rotation = [ 0.0, 89.999718, -89.999985 ]
+				},
+				{
+					m_name = "bip02_r_leg"
+					m_Translation = [ 0.633765, -3.532887, 36.821228 ]
+					m_Rotation = [ 43.340569, 87.933929, -46.79023 ]
+				},
+				{
+					m_name = "bip02_r_leg1"
+					m_Translation = [ 1.050907, -3.976488, 19.927296 ]
+					m_Rotation = [ -79.362755, 81.848114, -169.61731 ]
+				},
+				{
+					m_name = "bip02_r_foot"
+					m_Translation = [ -1.264026, -4.400809, 3.497475 ]
+					m_Rotation = [ 0.0, 89.998993, -89.999855 ]
+				},
+				{
+					m_name = "bip02_spine"
+					m_Translation = [ 0.629525, -0.21338, 40.310223 ]
+					m_Rotation = [ 0.0, -89.954361, -89.915291 ]
+				},
+				{
+					m_name = "bip02_spine1"
+					m_Translation = [ 0.629223, -0.213467, 45.628757 ]
+					m_Rotation = [ 89.899162, -88.546364, -179.729568 ]
+				},
+				{
+					m_name = "bip02_spine2"
+					m_Translation = [ 0.47909, -0.214166, 51.328609 ]
+					m_Rotation = [ 89.943726, -87.047096, -179.692947 ]
+				},
+				{
+					m_name = "bip02_neck"
+					m_Translation = [ 0.121852, -0.216078, 58.218842 ]
+					m_Rotation = [ -118.562592, -86.878075, 28.930471 ]
+				},
+				{
+					m_name = "bip02_l_arm"
+					m_Translation = [ 0.112056, 1.792842, 58.217167 ]
+					m_Rotation = [ -3.091822, 11.329309, 96.282036 ]
+				},
+				{
+					m_name = "bip02_l_arm1"
+					m_Translation = [ 0.173037, 6.447227, 57.276508 ]
+					m_Rotation = [ 0.001451, 77.274109, 90.001778 ]
+				},
+				{
+					m_name = "bip02_l_arm2"
+					m_Translation = [ 0.172998, 8.860336, 46.591232 ]
+					m_Rotation = [ -41.338745, 72.93856, 47.379284 ]
+				},
+				{
+					m_name = "bip02_l_hand"
+					m_Translation = [ 2.349255, 11.225342, 36.118942 ]
+					m_Rotation = [ -131.224014, 72.938522, 47.379093 ]
+				},
+				{
+					m_name = "bip02_r_arm"
+					m_Translation = [ 0.135512, -2.224977, 58.220337 ]
+					m_Rotation = [ -176.812241, 10.455472, -82.60363 ]
+				},
+				{
+					m_name = "bip02_r_arm1"
+					m_Translation = [ 0.173057, -6.87392, 57.276535 ]
+					m_Rotation = [ 179.999023, 77.273865, -90.000954 ]
+				},
+				{
+					m_name = "bip02_r_arm2"
+					m_Translation = [ 0.173041, -9.287062, 46.591267 ]
+					m_Rotation = [ -138.66156, 72.938316, -47.379208 ]
+				},
+				{
+					m_name = "bip02_r_hand"
+					m_Translation = [ 2.349324, -11.652104, 36.118988 ]
+					m_Rotation = [ -48.777206, 72.938133, -47.380276 ]
+				},
+				{
+					m_name = "bip02_head"
+					m_Translation = [ 0.237592, -0.152106, 60.643459 ]
+					m_Rotation = [ -92.818291, -80.594933, 3.38011 ]
+				},
+				{
+					m_name = "bone01"
+					m_Translation = [ 2.085379, 0.000049, 62.026794 ]
+					m_Rotation = [ 90.000175, -0.000081, -179.999985 ]
+				},
+			]
+			m_morphFlag = [  ]
+			m_userFlag = [  ]
+		}
+	}
+	m_pSeqGroup = 
+	{
+		m_pObject = null
+	}
+	m_pAnimGroups = [  ]
+	m_Vanim = 
+	[
+		{
+			m_Animationname = "180_Left"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/180_Left.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_TURN_LEFT"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "180_Right"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/180_Right.smd"
+			m_nStartframe = 0
+			m_nEndframe = 12
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_TURN_RIGHT"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "barnacled1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/barnacled1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 8
+			m_flFps = 28.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_BARNACLE_PULL"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "barnacled2"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/barnacled2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 40
+			m_flFps = 28.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_BARNACLE_PULL"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "barnacled3"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/barnacled3.smd"
+			m_nStartframe = 0
+			m_nEndframe = 35
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_BARNACLE_CHOMP"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "barnacled4"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/barnacled4.smd"
+			m_nStartframe = 0
+			m_nEndframe = 35
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_BARNACLE_CHEW"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "coffee"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/coffee.smd"
+			m_nStartframe = 0
+			m_nEndframe = 40
+			m_flFps = 14.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "console"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/console.smd"
+			m_nStartframe = 0
+			m_nEndframe = 60
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "converse1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/converse1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 60
+			m_flFps = 13.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "converse2"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/converse2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 60
+			m_flFps = 13.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "crouch_idle"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/crouch_idle.smd"
+			m_nStartframe = 0
+			m_nEndframe = 10
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_CROUCHIDLE"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "crouch_idle2"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/crouch_idle2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_CROUCHIDLE"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "crouch_idle3_1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/crouch_idle3_1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_CROUCHIDLE"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "crouch_idle3_2"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/crouch_idle3_2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_CROUCHIDLE"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "crouchstand"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/crouchstand.smd"
+			m_nStartframe = 0
+			m_nEndframe = 21
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_STAND"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dead_against_wall"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/dead_against_wall.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dead_sitting"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/dead_sitting.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dead_table1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/dead_table1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dead_table2"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/dead_table2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dead_table3"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/dead_table3.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "diebackward"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/diebackward.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIEBACKWARD"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 8
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dieforward"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/dieforward.smd"
+			m_nStartframe = 0
+			m_nEndframe = 8
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIE_HEADSHOT"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 8
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dieforward1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/dieforward1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 0
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIEFORWARD"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 0
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "diesimple"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/diesimple.smd"
+			m_nStartframe = 0
+			m_nEndframe = 21
+			m_flFps = 24.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIESIMPLE"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 8
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dryhands"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/dryhands.smd"
+			m_nStartframe = 0
+			m_nEndframe = 50
+			m_flFps = 12.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "eye_wipe"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/eye_wipe.smd"
+			m_nStartframe = 0
+			m_nEndframe = 50
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "fear1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/fear1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 55
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "fear2"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/fear2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 40
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "flinch"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/flinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_BIG_FLINCH"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "flinch1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/flinch1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 8
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_SMALL_FLINCH"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "franticbutton"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/franticbutton.smd"
+			m_nStartframe = 0
+			m_nEndframe = 36
+			m_flFps = 14.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "germandeath"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/germandeath.smd"
+			m_nStartframe = 0
+			m_nEndframe = 48
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "give_shot"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/give_shot.smd"
+			m_nStartframe = 0
+			m_nEndframe = 23
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_MELEE_ATTACK1"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "gutshot"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/gutshot.smd"
+			m_nStartframe = 0
+			m_nEndframe = 8
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIE_GUTSHOT"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 8
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "headshot"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/headshot.smd"
+			m_nStartframe = 0
+			m_nEndframe = 8
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIE_HEADSHOT"
+					m_nWeight = 20
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 8
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "idle1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/idle1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_IDLE"
+					m_nWeight = 50
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "idle3"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/idle3.smd"
+			m_nStartframe = 0
+			m_nEndframe = 9
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_IDLE"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "idle4"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/idle4.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_IDLE"
+					m_nWeight = 2
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "idle5"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/idle5.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_IDLE"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "idle6"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/idle6.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_IDLE"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "idle7"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/idle7.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 10.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_IDLE"
+					m_nWeight = 10
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "laflinch"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/laflinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 8
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_FLINCH_LEFTARM"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "lean"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/lean.smd"
+			m_nStartframe = 0
+			m_nEndframe = 60
+			m_flFps = 12.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "llflinch"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/llflinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_FLINCH_LEFTLEG"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "lying_on_back"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/lying_on_back.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "lying_on_stomach"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/lying_on_stomach.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "no"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/no.smd"
+			m_nStartframe = 0
+			m_nEndframe = 3
+			m_flFps = 16.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "panic"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/panic.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_EXCITED"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "pause"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/pause.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "pondering"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/pondering.smd"
+			m_nStartframe = 0
+			m_nEndframe = 35
+			m_flFps = 12.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "pondering2"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/pondering2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 70
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "pondering3"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/pondering3.smd"
+			m_nStartframe = 0
+			m_nEndframe = 35
+			m_flFps = 12.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "pull_needle"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/pull_needle.smd"
+			m_nStartframe = 0
+			m_nEndframe = 35
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_ARM"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "push_button"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/push_button.smd"
+			m_nStartframe = 0
+			m_nEndframe = 25
+			m_flFps = 16.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "raflinch"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/raflinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 8
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_FLINCH_RIGHTARM"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "retina"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/retina.smd"
+			m_nStartframe = 0
+			m_nEndframe = 65
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "return_needle"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/return_needle.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "rlflinch"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/rlflinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_FLINCH_RIGHTLEG"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "run"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/run.smd"
+			m_nStartframe = 0
+			m_nEndframe = 54
+			m_flFps = 25.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_RUN"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 0
+					m_DataString = "HL1.common.npc_step2"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 9
+					m_DataString = "HL1.common.npc_step4"
+				},
+			]
+			m_MotionFrames = 
+			[
+				{
+					m_nFrame = 0
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 1
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 2
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 3
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 4
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 5
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 6
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 7
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 8
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 9
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 10
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 11
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 12
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 13
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 14
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 15
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 16
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 17
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 18
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 19
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 20
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 21
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 22
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 23
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 24
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 25
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 26
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 27
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 28
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 29
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 30
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 31
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 32
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 33
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 34
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 35
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 36
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 37
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 38
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 39
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 40
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 41
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 42
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 43
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 44
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 45
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 46
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 47
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 48
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 49
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 50
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 51
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 52
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 53
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 54
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+			]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "run1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/run1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 19
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_RUN_SCARED"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 0
+					m_DataString = "HL1.common.npc_step2"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 9
+					m_DataString = "HL1.common.npc_step4"
+				},
+			]
+			m_MotionFrames = 
+			[
+				{
+					m_nFrame = 0
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 1
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 2
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 3
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 4
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 5
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 6
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 7
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 8
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 9
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 10
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 11
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 12
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 13
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 14
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 15
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 16
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 17
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 18
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 19
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+			]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "run2"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/run2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 17
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_RUN_SCARED"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 0
+					m_DataString = "HL1.common.npc_step2"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 9
+					m_DataString = "HL1.common.npc_step4"
+				},
+			]
+			m_MotionFrames = 
+			[
+				{
+					m_nFrame = 0
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 1
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 2
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 3
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 4
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 5
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 6
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 7
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 8
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 9
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 10
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 11
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 12
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 13
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 14
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 15
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 16
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 17
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+			]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "scientist_beatwindow"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/scientist_beatwindow.smd"
+			m_nStartframe = 0
+			m_nEndframe = 109
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 9
+					m_DataString = "Jamie.Scientist.Bounce1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 17
+					m_DataString = "Jamie.Scientist.Bounce1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 24
+					m_DataString = "Jamie.Scientist.Bounce1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 80
+					m_DataString = "Jamie.Scientist.Bounce1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 43
+					m_DataString = "Jamie.Scientist.Scream"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 84
+					m_DataString = "Jamie.Scientist.Bounce1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 88
+					m_DataString = "Jamie.Scientist.Bounce1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 92
+					m_DataString = "Jamie.Scientist.Bounce1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 97
+					m_DataString = "Jamie.Scientist.Bounce1"
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "scientist_deadpose1"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/scientist_deadpose1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "scientist_throwna"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/scientist_throwna.smd"
+			m_nStartframe = 0
+			m_nEndframe = 198
+			m_flFps = 25.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 13
+					m_DataString = "Jamie.Scientist.Hurt"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 39
+					m_DataString = "Jamie.Scientist.Bodydrop"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 174
+					m_DataString = "Jamie.Scientist.Fear"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 97
+					m_DataString = "Jamie.Scientist.Hurt"
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "scientist_thrownb"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/scientist_thrownb.smd"
+			m_nStartframe = 0
+			m_nEndframe = 32
+			m_flFps = 25.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 12
+					m_DataString = "Jamie.Scientist.Bodydrop"
+				},
+				{
+					m_Event = "AE_SCRIPT_EVENT_DEAD"
+					m_nFrame = 12
+					m_DataString = ""
+				},
+				{
+					m_Event = "AE_SCRIPT_EVENT_NOINTERRUPT"
+					m_nFrame = 12
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "scientist_zombiefear"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/scientist_zombiefear.smd"
+			m_nStartframe = 0
+			m_nEndframe = 66
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 8
+					m_DataString = "Jamie.Scientist.Scream"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 65
+					m_DataString = "Jamie.Scientist.Fear"
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "startle"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/startle.smd"
+			m_nStartframe = 0
+			m_nEndframe = 16
+			m_flFps = 16.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "studycart"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/studycart.smd"
+			m_nStartframe = 0
+			m_nEndframe = 80
+			m_flFps = 12.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "teleport_fidget"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/teleport_fidget.smd"
+			m_nStartframe = 0
+			m_nEndframe = 116
+			m_flFps = 8.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "tieshoe"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/tieshoe.smd"
+			m_nStartframe = 0
+			m_nEndframe = 9
+			m_flFps = 12.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "walk"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/walk.smd"
+			m_nStartframe = 0
+			m_nEndframe = 5
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_WALK"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 0
+					m_DataString = "HL1.common.npc_step1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 5
+					m_DataString = "HL1.common.npc_step3"
+				},
+			]
+			m_MotionFrames = 
+			[
+				{
+					m_nFrame = 0
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 1
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 2
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 3
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 4
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 5
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+			]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "walk_scared"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/walk_scared.smd"
+			m_nStartframe = 0
+			m_nEndframe = 3
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_WALK_SCARED"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 0
+					m_DataString = "HL1.common.npc_step1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 3
+					m_DataString = "HL1.common.npc_step3"
+				},
+			]
+			m_MotionFrames = 
+			[
+				{
+					m_nFrame = 0
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 1
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 2
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 3
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+			]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "writeboard"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/writeboard.smd"
+			m_nStartframe = 0
+			m_nEndframe = 80
+			m_flFps = 14.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "yes"
+			m_Filepath = "models/cleansuit_scientist/cleansuit_scientist_anims/yes.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 16.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+	]
+	m_sScripts = [  ]
+	m_folderNames = [  ]
+	m_sCompileScripts = [  ]
+	m_pActivityWhiteList = 
+	{
+		m_pObject = null
+	}
+}

@@ -123,7 +123,7 @@
 					m_Filepath = "models/barney/barney_anims/dieviolent.smd"
 					m_nStartframe = 0
 					m_nEndframe = 24
-					m_flFps = 30.0
+					m_flFps = 20.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -146,7 +146,14 @@
 							m_nWeight = 1
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_NPC_BODYDROP_LIGHT"
+							m_nFrame = 10
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -209,7 +216,7 @@
 					m_Filepath = "models/barney/barney_anims/almost.smd"
 					m_nStartframe = 0
 					m_nEndframe = 144
-					m_flFps = 30.0
+					m_flFps = 26.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -226,7 +233,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 1
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -249,7 +263,7 @@
 					m_Filepath = "models/barney/barney_anims/almostidle.smd"
 					m_nStartframe = 0
 					m_nEndframe = 38
-					m_flFps = 30.0
+					m_flFps = 16.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -289,7 +303,7 @@
 					m_Filepath = "models/barney/barney_anims/assassinated.smd"
 					m_nStartframe = 0
 					m_nEndframe = 13
-					m_flFps = 30.0
+					m_flFps = 18.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -306,7 +320,24 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 1
+							m_DataString = ""
+						},
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 0
+							m_DataString = "blood1"
+						},
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 0
+							m_DataString = "blood2"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -369,10 +400,10 @@
 					m_Filepath = "models/barney/barney_anims/barnaclechew.smd"
 					m_nStartframe = 0
 					m_nEndframe = 35
-					m_flFps = 30.0
+					m_flFps = 5.0
 					m_Loop = 
 					{
-						m_bLoop = false
+						m_bLoop = true
 						m_bSmoothLoop = false
 						m_nSmoothLoopStart = 0
 						m_nSmoothLoopEnd = 0
@@ -415,10 +446,10 @@
 					m_Filepath = "models/barney/barney_anims/barnaclecrunch.smd"
 					m_nStartframe = 0
 					m_nEndframe = 35
-					m_flFps = 30.0
+					m_flFps = 5.0
 					m_Loop = 
 					{
-						m_bLoop = true
+						m_bLoop = false
 						m_bSmoothLoop = false
 						m_nSmoothLoopStart = 0
 						m_nSmoothLoopEnd = 0
@@ -478,7 +509,7 @@
 					m_Filepath = "models/barney/barney_anims/barnaclehit.smd"
 					m_nStartframe = 0
 					m_nEndframe = 8
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -524,10 +555,10 @@
 					m_Filepath = "models/barney/barney_anims/barnaclepull.smd"
 					m_nStartframe = 0
 					m_nEndframe = 40
-					m_flFps = 30.0
+					m_flFps = 45.0
 					m_Loop = 
 					{
-						m_bLoop = false
+						m_bLoop = true
 						m_bSmoothLoop = false
 						m_nSmoothLoopStart = 0
 						m_nSmoothLoopEnd = 0
@@ -570,7 +601,7 @@
 					m_Filepath = "models/barney/barney_anims/barney_dragvent.smd"
 					m_nStartframe = 0
 					m_nEndframe = 56
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -587,7 +618,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 1
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -610,7 +648,7 @@
 					m_Filepath = "models/barney/barney_anims/barneyfall.smd"
 					m_nStartframe = 0
 					m_nEndframe = 62
-					m_flFps = 30.0
+					m_flFps = 32.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -627,7 +665,34 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 1
+							m_DataString = ""
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 2
+							m_DataString = "Jamie.Barney.OhMyMonkey"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 24
+							m_DataString = "Jamie.Barney.GonnaFallNow"
+						},
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 55
+							m_DataString = "bsplat"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 0
+							m_DataString = "Jamie.Barney.Splat"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -650,7 +715,7 @@
 					m_Filepath = "models/barney/barney_anims/barneyfallidle.smd"
 					m_nStartframe = 0
 					m_nEndframe = 100
-					m_flFps = 30.0
+					m_flFps = 33.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -730,7 +795,7 @@
 					m_Filepath = "models/barney/barney_anims/beat_grunt.smd"
 					m_nStartframe = 0
 					m_nEndframe = 53
-					m_flFps = 30.0
+					m_flFps = 14.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -787,7 +852,7 @@
 					m_Filepath = "models/barney/barney_anims/beat_gruntidle.smd"
 					m_nStartframe = 0
 					m_nEndframe = 40
-					m_flFps = 30.0
+					m_flFps = 14.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -844,7 +909,7 @@
 					m_Filepath = "models/barney/barney_anims/buttonpush.smd"
 					m_nStartframe = 0
 					m_nEndframe = 22
-					m_flFps = 30.0
+					m_flFps = 20.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -861,7 +926,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 7
+							m_DataString = "button"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -884,7 +956,7 @@
 					m_Filepath = "models/barney/barney_anims/c1a3_bidle.smd"
 					m_nStartframe = 0
 					m_nEndframe = 1
-					m_flFps = 30.0
+					m_flFps = 3.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -924,7 +996,7 @@
 					m_Filepath = "models/barney/barney_anims/c1a3_emerge.smd"
 					m_nStartframe = 0
 					m_nEndframe = 150
-					m_flFps = 30.0
+					m_flFps = 16.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -941,7 +1013,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 1
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -964,7 +1043,7 @@
 					m_Filepath = "models/barney/barney_anims/c1a3_emergeidle.smd"
 					m_nStartframe = 0
 					m_nEndframe = 1
-					m_flFps = 30.0
+					m_flFps = 16.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -1004,7 +1083,7 @@
 					m_Filepath = "models/barney/barney_anims/c1a3_ventb.smd"
 					m_nStartframe = 0
 					m_nEndframe = 120
-					m_flFps = 30.0
+					m_flFps = 18.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1021,7 +1100,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 1
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -1044,7 +1130,7 @@
 					m_Filepath = "models/barney/barney_anims/c3a2_draw.smd"
 					m_nStartframe = 0
 					m_nEndframe = 60
-					m_flFps = 30.0
+					m_flFps = 16.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1084,7 +1170,7 @@
 					m_Filepath = "models/barney/barney_anims/casualroll.smd"
 					m_nStartframe = 0
 					m_nEndframe = 23
-					m_flFps = 30.0
+					m_flFps = 25.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1107,7 +1193,19 @@
 							m_nWeight = 1
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 5
+							m_DataString = "Jamie.Barney.Step3"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 13
+							m_DataString = "Jamie.Barney.Step1"
+						},
+					]
 					m_MotionFrames = 
 					[
 						{
@@ -1492,7 +1590,7 @@
 					m_Filepath = "models/barney/barney_anims/cower_stand.smd"
 					m_nStartframe = 0
 					m_nEndframe = 50
-					m_flFps = 30.0
+					m_flFps = 14.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1532,10 +1630,10 @@
 					m_Filepath = "models/barney/barney_anims/cprbarney.smd"
 					m_nStartframe = 0
 					m_nEndframe = 159
-					m_flFps = 30.0
+					m_flFps = 20.0
 					m_Loop = 
 					{
-						m_bLoop = false
+						m_bLoop = true
 						m_bSmoothLoop = false
 						m_nSmoothLoopStart = 0
 						m_nSmoothLoopEnd = 0
@@ -1572,7 +1670,7 @@
 					m_Filepath = "models/barney/barney_anims/cprbarneyrevive.smd"
 					m_nStartframe = 0
 					m_nEndframe = 4
-					m_flFps = 30.0
+					m_flFps = 20.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1658,7 +1756,7 @@
 					m_Filepath = "models/barney/barney_anims/diecrump.smd"
 					m_nStartframe = 0
 					m_nEndframe = 17
-					m_flFps = 30.0
+					m_flFps = 18.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1681,7 +1779,14 @@
 							m_nWeight = 2
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_NPC_BODYDROP_LIGHT"
+							m_nFrame = 13
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -1773,7 +1878,14 @@
 							m_nWeight = 1
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_NPC_BODYDROP_LIGHT"
+							m_nFrame = 15
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -1796,7 +1908,7 @@
 					m_Filepath = "models/barney/barney_anims/diesimple.smd"
 					m_nStartframe = 0
 					m_nEndframe = 15
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1819,7 +1931,14 @@
 							m_nWeight = 1
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_NPC_BODYDROP_LIGHT"
+							m_nFrame = 5
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -1842,7 +1961,7 @@
 					m_Filepath = "models/barney/barney_anims/disarm.smd"
 					m_nStartframe = 0
 					m_nEndframe = 20
-					m_flFps = 30.0
+					m_flFps = 10.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1888,7 +2007,7 @@
 					m_Filepath = "models/barney/barney_anims/draw.smd"
 					m_nStartframe = 0
 					m_nEndframe = 15
-					m_flFps = 30.0
+					m_flFps = 20.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1934,7 +2053,7 @@
 					m_Filepath = "models/barney/barney_anims/dying_barney.smd"
 					m_nStartframe = 0
 					m_nEndframe = 60
-					m_flFps = 30.0
+					m_flFps = 18.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -1951,7 +2070,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 1
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -1974,7 +2100,7 @@
 					m_Filepath = "models/barney/barney_anims/dying_barneyidle.smd"
 					m_nStartframe = 0
 					m_nEndframe = 30
-					m_flFps = 30.0
+					m_flFps = 12.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -2014,7 +2140,7 @@
 					m_Filepath = "models/barney/barney_anims/dying_friend.smd"
 					m_nStartframe = 0
 					m_nEndframe = 74
-					m_flFps = 30.0
+					m_flFps = 18.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2054,7 +2180,7 @@
 					m_Filepath = "models/barney/barney_anims/dying_friendidle.smd"
 					m_nStartframe = 0
 					m_nEndframe = 30
-					m_flFps = 30.0
+					m_flFps = 12.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -2094,7 +2220,7 @@
 					m_Filepath = "models/barney/barney_anims/fall_loop.smd"
 					m_nStartframe = 0
 					m_nEndframe = 29
-					m_flFps = 30.0
+					m_flFps = 28.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -2134,7 +2260,7 @@
 					m_Filepath = "models/barney/barney_anims/fence.smd"
 					m_nStartframe = 0
 					m_nEndframe = 120
-					m_flFps = 30.0
+					m_flFps = 24.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2151,7 +2277,29 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 70
+							m_DataString = ""
+						},
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 70
+							m_DataString = "lightning"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 72
+							m_DataString = "HL1.weapons.electro4"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 100
+							m_DataString = "Jamie.Barney.BeenZapped"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -2174,7 +2322,7 @@
 					m_Filepath = "models/barney/barney_anims/flashlight.smd"
 					m_nStartframe = 0
 					m_nEndframe = 13
-					m_flFps = 30.0
+					m_flFps = 14.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2191,7 +2339,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 5
+							m_DataString = "HL1.buttons.latchunlocked2"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -2214,7 +2369,7 @@
 					m_Filepath = "models/barney/barney_anims/haulbarney.smd"
 					m_nStartframe = 0
 					m_nEndframe = 110
-					m_flFps = 30.0
+					m_flFps = 18.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2231,7 +2386,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 1
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -2254,10 +2416,10 @@
 					m_Filepath = "models/barney/barney_anims/headstand.smd"
 					m_nStartframe = 0
 					m_nEndframe = 11
-					m_flFps = 30.0
+					m_flFps = 25.0
 					m_Loop = 
 					{
-						m_bLoop = false
+						m_bLoop = true
 						m_bSmoothLoop = false
 						m_nSmoothLoopStart = 0
 						m_nSmoothLoopEnd = 0
@@ -2277,7 +2439,19 @@
 							m_nWeight = 1
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 5
+							m_DataString = "Jamie.Barney.Step3"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 11
+							m_DataString = "Jamie.Barney.Step1"
+						},
+					]
 					m_MotionFrames = 
 					[
 						{
@@ -2482,7 +2656,7 @@
 					m_Filepath = "models/barney/barney_anims/idle1.smd"
 					m_nStartframe = 0
 					m_nEndframe = 30
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -2528,7 +2702,7 @@
 					m_Filepath = "models/barney/barney_anims/idle2.smd"
 					m_nStartframe = 0
 					m_nEndframe = 23
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -2574,7 +2748,7 @@
 					m_Filepath = "models/barney/barney_anims/idle3.smd"
 					m_nStartframe = 0
 					m_nEndframe = 15
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -2620,7 +2794,7 @@
 					m_Filepath = "models/barney/barney_anims/idle4.smd"
 					m_nStartframe = 0
 					m_nEndframe = 30
-					m_flFps = 30.0
+					m_flFps = 12.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -2683,7 +2857,29 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 15
+							m_DataString = "HL1.buttons.blip1"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 24
+							m_DataString = "HL1.buttons.blip1"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 34
+							m_DataString = "Jamie.Stuff.PokemonMach"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 44
+							m_DataString = "Jamie.Stuff.Welcome"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -2706,7 +2902,7 @@
 					m_Filepath = "models/barney/barney_anims/laflinch.smd"
 					m_nStartframe = 0
 					m_nEndframe = 8
-					m_flFps = 30.0
+					m_flFps = 16.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2752,7 +2948,7 @@
 					m_Filepath = "models/barney/barney_anims/laser_bottom.smd"
 					m_nStartframe = 0
 					m_nEndframe = 1
-					m_flFps = 30.0
+					m_flFps = 6.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2769,7 +2965,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 0
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -2792,7 +2995,7 @@
 					m_Filepath = "models/barney/barney_anims/laser_top.smd"
 					m_nStartframe = 0
 					m_nEndframe = 1
-					m_flFps = 30.0
+					m_flFps = 6.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2809,7 +3012,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_DEAD"
+							m_nFrame = 0
+							m_DataString = ""
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -2832,7 +3042,7 @@
 					m_Filepath = "models/barney/barney_anims/laseridle.smd"
 					m_nStartframe = 0
 					m_nEndframe = 1
-					m_flFps = 30.0
+					m_flFps = 6.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -2872,7 +3082,7 @@
 					m_Filepath = "models/barney/barney_anims/llflinch.smd"
 					m_nStartframe = 0
 					m_nEndframe = 10
-					m_flFps = 30.0
+					m_flFps = 20.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2918,7 +3128,7 @@
 					m_Filepath = "models/barney/barney_anims/locked_door.smd"
 					m_nStartframe = 0
 					m_nEndframe = 13
-					m_flFps = 30.0
+					m_flFps = 28.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2958,7 +3168,7 @@
 					m_Filepath = "models/barney/barney_anims/lying_on_back.smd"
 					m_nStartframe = 0
 					m_nEndframe = 1
-					m_flFps = 30.0
+					m_flFps = 1.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -2998,7 +3208,7 @@
 					m_Filepath = "models/barney/barney_anims/lying_on_side.smd"
 					m_nStartframe = 0
 					m_nEndframe = 1
-					m_flFps = 30.0
+					m_flFps = 1.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -3038,7 +3248,7 @@
 					m_Filepath = "models/barney/barney_anims/lying_on_stomach.smd"
 					m_nStartframe = 0
 					m_nEndframe = 1
-					m_flFps = 30.0
+					m_flFps = 1.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -3278,7 +3488,7 @@
 					m_Filepath = "models/barney/barney_anims/pepsipush.smd"
 					m_nStartframe = 0
 					m_nEndframe = 100
-					m_flFps = 30.0
+					m_flFps = 18.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -3295,7 +3505,19 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 51
+							m_DataString = "topple"
+						},
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 90
+							m_DataString = "horror"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -3318,7 +3540,7 @@
 					m_Filepath = "models/barney/barney_anims/pepsiswing.smd"
 					m_nStartframe = 0
 					m_nEndframe = 24
-					m_flFps = 30.0
+					m_flFps = 25.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -3335,7 +3557,19 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 1
+							m_DataString = "die"
+						},
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 8
+							m_DataString = "swing"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -3358,7 +3592,7 @@
 					m_Filepath = "models/barney/barney_anims/raflinch.smd"
 					m_nStartframe = 0
 					m_nEndframe = 8
-					m_flFps = 30.0
+					m_flFps = 16.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -3444,10 +3678,10 @@
 					m_Filepath = "models/barney/barney_anims/relaxstand.smd"
 					m_nStartframe = 0
 					m_nEndframe = 30
-					m_flFps = 30.0
+					m_flFps = 10.0
 					m_Loop = 
 					{
-						m_bLoop = false
+						m_bLoop = true
 						m_bSmoothLoop = false
 						m_nSmoothLoopStart = 0
 						m_nSmoothLoopEnd = 0
@@ -3484,7 +3718,7 @@
 					m_Filepath = "models/barney/barney_anims/reload.smd"
 					m_nStartframe = 0
 					m_nEndframe = 25
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -3530,7 +3764,7 @@
 					m_Filepath = "models/barney/barney_anims/retina.smd"
 					m_nStartframe = 0
 					m_nEndframe = 70
-					m_flFps = 30.0
+					m_flFps = 20.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -3570,7 +3804,7 @@
 					m_Filepath = "models/barney/barney_anims/rlflinch.smd"
 					m_nStartframe = 0
 					m_nEndframe = 10
-					m_flFps = 30.0
+					m_flFps = 20.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -3616,7 +3850,7 @@
 					m_Filepath = "models/barney/barney_anims/run.smd"
 					m_nStartframe = 0
 					m_nEndframe = 15
-					m_flFps = 30.0
+					m_flFps = 25.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -3639,7 +3873,19 @@
 							m_nWeight = 1
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 0
+							m_DataString = "Jamie.Barney.Step3"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 0
+							m_DataString = "Jamie.Barney.Step1"
+						},
+					]
 					m_MotionFrames = 
 					[
 						{
@@ -3921,7 +4167,19 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 15
+							m_DataString = "introchair"
+						},
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 15
+							m_DataString = "introchair"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -3990,10 +4248,10 @@
 					m_Filepath = "models/barney/barney_anims/sonicroll.smd"
 					m_nStartframe = 0
 					m_nEndframe = 11
-					m_flFps = 30.0
+					m_flFps = 25.0
 					m_Loop = 
 					{
-						m_bLoop = false
+						m_bLoop = true
 						m_bSmoothLoop = false
 						m_nSmoothLoopStart = 0
 						m_nSmoothLoopEnd = 0
@@ -4013,7 +4271,19 @@
 							m_nWeight = 1
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 5
+							m_DataString = "Jamie.Barney.Step3"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 11
+							m_DataString = "Jamie.Barney.Step1"
+						},
+					]
 					m_MotionFrames = 
 					[
 						{
@@ -4218,7 +4488,7 @@
 					m_Filepath = "models/barney/barney_anims/standing_idle.smd"
 					m_nStartframe = 0
 					m_nEndframe = 8
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = true
@@ -4298,7 +4568,7 @@
 					m_Filepath = "models/barney/barney_anims/trackswitch.smd"
 					m_nStartframe = 0
 					m_nEndframe = 40
-					m_flFps = 30.0
+					m_flFps = 22.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -4315,7 +4585,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 14
+							m_DataString = "trainarmswitch"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -4338,7 +4615,7 @@
 					m_Filepath = "models/barney/barney_anims/turnleft.smd"
 					m_nStartframe = 0
 					m_nEndframe = 12
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -4384,7 +4661,7 @@
 					m_Filepath = "models/barney/barney_anims/turnright.smd"
 					m_nStartframe = 0
 					m_nEndframe = 12
-					m_flFps = 30.0
+					m_flFps = 15.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -4430,7 +4707,7 @@
 					m_Filepath = "models/barney/barney_anims/unlatch.smd"
 					m_nStartframe = 0
 					m_nEndframe = 25
-					m_flFps = 30.0
+					m_flFps = 12.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -4447,7 +4724,14 @@
 					m_bHidden = false
 					m_bDisable = false
 					m_Activities = [  ]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+							m_nFrame = 7
+							m_DataString = "barney_door_lock"
+						},
+					]
 					m_MotionFrames = [  ]
 					m_pIkRules = [  ]
 					m_pAlignAnimation = null
@@ -4473,7 +4757,7 @@
 					m_flFps = 30.0
 					m_Loop = 
 					{
-						m_bLoop = false
+						m_bLoop = true
 						m_bSmoothLoop = false
 						m_nSmoothLoopStart = 0
 						m_nSmoothLoopEnd = 0
@@ -4493,7 +4777,19 @@
 							m_nWeight = 1
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 5
+							m_DataString = "Jamie.Barney.Step3"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 13
+							m_DataString = "Jamie.Barney.Step1"
+						},
+					]
 					m_MotionFrames = 
 					[
 						{
@@ -4781,7 +5077,19 @@
 							m_nWeight = 1
 						},
 					]
-					m_AnimationEvents = [  ]
+					m_AnimationEvents = 
+					[
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 3
+							m_DataString = "Jamie.Barney.Step1"
+						},
+						{
+							m_Event = "AE_CL_PLAYSOUND"
+							m_nFrame = 18
+							m_DataString = "Jamie.Barney.Step2"
+						},
+					]
 					m_MotionFrames = 
 					[
 						{
@@ -5286,7 +5594,7 @@
 					m_Filepath = "models/barney/barney_anims/shootgun.smd"
 					m_nStartframe = 0
 					m_nEndframe = 15
-					m_flFps = 30.0
+					m_flFps = 25.0
 					m_Loop = 
 					{
 						m_bLoop = false
@@ -5452,7 +5760,7 @@
 					m_Filepath = "models/barney/barney_anims/shootgun2.smd"
 					m_nStartframe = 0
 					m_nEndframe = 15
-					m_flFps = 30.0
+					m_flFps = 40.0
 					m_Loop = 
 					{
 						m_bLoop = false
