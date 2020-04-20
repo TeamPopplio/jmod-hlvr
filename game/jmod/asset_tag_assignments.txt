@@ -1315,6 +1315,20 @@
 			]
 		},
 		{
+			asset = "materials/halflife/+0fiftsstch4_color.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/+0fiftsstch4_color_png_4b7418c7.vtex"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "materials/halflife/+0lab1_comp10b_color.png"
 			tag_ids = 
 			[
@@ -2597,6 +2611,13 @@
 		},
 		{
 			asset = "materials/halflife/fiftsfile1_color_png_efeb651b.vtex"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/halflife/fiftsstch4.vmat"
 			tag_ids = 
 			[
 				"jamie",
@@ -6200,6 +6221,27 @@
 			]
 		},
 		{
+			asset = "materials/models/superfly/ff.vmat"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/models/superfly/ff_color.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/models/superfly/ff_color_png_86db9ab5.vtex"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "materials/models/weapons/shell/casing01.vmat"
 			tag_ids = 
 			[
@@ -6274,6 +6316,27 @@
 			tag_ids = 
 			[
 				"imported",
+			]
+		},
+		{
+			asset = "materials/models/zombie/pumkin.vmat"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/models/zombie/pumkin_color.png"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "materials/models/zombie/pumkin_color_png_d6de64f9.vtex"
+			tag_ids = 
+			[
+				"jamie",
 			]
 		},
 		{
@@ -32921,6 +32984,97 @@
 			]
 		},
 		{
+			asset = "models/superfly/superfly.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/superfly.vmdl"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/superfly.vmesh"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/superfly.vphys"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/superfly_23c69369.vagrp"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/23c69369/die1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/23c69369/idle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/23c69369/run.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/23c69369/walk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/superfly_anims/die1.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/superfly_anims/idle1.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/superfly_anims/run.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/superfly/superfly_anims/walk.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "models/vehicles/train_boxcar_lootable_door.vmdl"
 			tag_ids = 
 			[
@@ -33143,6 +33297,979 @@
 			tag_ids = 
 			[
 				"imported",
+			]
+		},
+		{
+			asset = "models/zombie/zombie.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie.vmdl"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie.vmesh"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie.vphys"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_60514bb3.vagrp"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims.vagrp"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims_a7fa5428.vagrp"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/attack1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/attack2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/bigflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/bust_window.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/busting_through_wall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/c2a3_snack_getup.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/deadidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/deadwall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/diebackward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/dieforward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/dieheadshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/dieheadshot2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/diesimple.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/eat_to_stand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/eatbody.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/eatbodystand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/eatbodytable.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/falling.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/flinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/flinchsmall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/freak.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/freakdie.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/getup.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/haulzombie.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/idle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/kick_punch_wall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/laflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/llflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/pause.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/raflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/ripdoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/rlflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/slideidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/slidewall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/soda.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/turnleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/turnright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/vent_c1a3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/vent_zidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/ventclimb.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/ventclimbidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/walk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/zombie_eating.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/60514bb3/zombie_pull_scientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/attack1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/attack2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/bigflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/bust_window.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/busting_through_wall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/c2a3_snack_getup.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/deadidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/deadwall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/diebackward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/dieforward.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/dieheadshot.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/dieheadshot2.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/diesimple.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/eat_to_stand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/eatbody.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/eatbodystand.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/eatbodytable.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/falling.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/flinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/flinchsmall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/freak.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/freakdie.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/getup.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/haulzombie.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/idle1.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/kick_punch_wall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/laflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/llflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/pause.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/raflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/ripdoor.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/rlflinch.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/slideidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/slidewall.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/soda.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/turnleft.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/turnright.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/vent_c1a3.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/vent_zidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/ventclimb.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/ventclimbidle.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/walk.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/zombie_eating.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/a7fa5428/zombie_pull_scientist.vanim"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/attack1.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/attack2.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/bigflinch.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/bust_window.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/busting_through_wall.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/c2a3_snack_getup.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/deadidle.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/deadwall.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/diebackward.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/dieforward.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/dieheadshot.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/dieheadshot2.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/diesimple.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/eat_to_stand.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/eatbody.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/eatbodystand.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/eatbodytable.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/falling.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/flinch.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/flinchsmall.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/freak.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/freakdie.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/getup.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/haulzombie.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/idle1.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/kick_punch_wall.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/laflinch.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/llflinch.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/pause.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/raflinch.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/ripdoor.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/rlflinch.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/slideidle.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/slidewall.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/soda.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/turnleft.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/turnright.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/vent_c1a3.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/vent_zidle.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/ventclimb.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/ventclimbidle.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/walk.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/zombie_eating.smd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "models/zombie/zombie_anims/zombie_pull_scientist.smd"
+			tag_ids = 
+			[
+				"jamie",
 			]
 		},
 		{
@@ -34869,6 +35996,13 @@
 			]
 		},
 		{
+			asset = "sounds/barney/c1a0_ba_headdown.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
 			asset = "sounds/buttons/blip1.vsnd"
 			tag_ids = 
 			[
@@ -34912,6 +36046,13 @@
 		},
 		{
 			asset = "sounds/buttons/latchunlocked2.vsnd"
+			tag_ids = 
+			[
+				"jamie",
+			]
+		},
+		{
+			asset = "sounds/buttons/lightswitch2.vsnd"
 			tag_ids = 
 			[
 				"jamie",

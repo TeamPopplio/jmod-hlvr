@@ -1,0 +1,4939 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	m_Name = "zombie_anims"
+	m_pBoneFlagList = 
+	{
+		m_pObject = 
+		{
+			m_boneFlag = 
+			[
+				{
+					m_sName = "bip01"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = ""
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_Pelvis"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip01"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_Spine"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip01_Pelvis"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_Spine1"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_Spine"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_l_Leg"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_Pelvis"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_l_Leg1"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_l_Leg"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_l_Foot"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_l_Leg1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_r_Leg"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_Pelvis"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_r_Leg1"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_r_Leg"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_r_Foot"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_r_Leg1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_Spine2"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip01_Spine1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_Spine3"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip01_Spine2"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_Neck"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip01_Spine3"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_l_Arm"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip01_Neck"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_l_Arm1"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_l_Arm"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_l_Arm2"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_l_Arm1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_l_Hand"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_l_Arm2"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_l_Finger0"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_l_Hand"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_r_Arm"
+					m_bProcedural = false
+					m_bDeleted = true
+					m_sGroup = ""
+					m_sParent = "bip01_Neck"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_r_Arm1"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_r_Arm"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_r_Arm2"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_r_Arm1"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_r_Hand"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_r_Arm2"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "bip01_r_Finger0"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_r_Hand"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+				{
+					m_sName = "Bone07"
+					m_bProcedural = false
+					m_bDeleted = false
+					m_sGroup = ""
+					m_sParent = "bip01_Spine"
+					m_bRigidLength = false
+					m_bPrealignedRotation = false
+					m_ReferenceAngle = [ 0.0, 0.0, 0.0 ]
+				},
+			]
+			m_boneWorldspace = 
+			[
+				{
+					m_name = "bip01"
+					m_Translation = [ 0.0, 0.582129, 33.422504 ]
+					m_Rotation = [ 0.0, -0.0, 0.000068 ]
+				},
+				{
+					m_name = "bip01_Pelvis"
+					m_Translation = [ 0.0, 0.57041, 33.422504 ]
+					m_Rotation = [ 0.0, -89.999985, -89.999863 ]
+				},
+				{
+					m_name = "bip01_Spine"
+					m_Translation = [ -0.003309, 0.570412, 34.981613 ]
+					m_Rotation = [ -90.000412, -72.962982, 0.000274 ]
+				},
+				{
+					m_name = "bip01_Spine1"
+					m_Translation = [ 1.267331, 0.58214, 38.948036 ]
+					m_Rotation = [ -90.000481, -72.962334, 0.000339 ]
+				},
+				{
+					m_name = "bip01_l_Leg"
+					m_Translation = [ -0.000002, 4.486941, 33.422508 ]
+					m_Rotation = [ 89.992989, 81.272667, -0.006943 ]
+				},
+				{
+					m_name = "bip01_l_Leg1"
+					m_Translation = [ 2.439828, 4.486908, 17.530071 ]
+					m_Rotation = [ -89.996414, 77.274467, -179.996353 ]
+				},
+				{
+					m_name = "bip01_l_Foot"
+					m_Translation = [ -1.102142, 4.486875, 1.846413 ]
+					m_Rotation = [ 0.0, 89.999672, -89.999855 ]
+				},
+				{
+					m_name = "bip01_r_Leg"
+					m_Translation = [ 0.000006, -3.322681, 33.42252 ]
+					m_Rotation = [ 90.001495, 81.272667, 0.001543 ]
+				},
+				{
+					m_name = "bip01_r_Leg1"
+					m_Translation = [ 2.439836, -3.322705, 17.530083 ]
+					m_Rotation = [ -90.000206, 77.274467, 179.999847 ]
+				},
+				{
+					m_name = "bip01_r_Foot"
+					m_Translation = [ -1.102134, -3.32274, 1.846424 ]
+					m_Rotation = [ 0.0, 89.999664, -89.999962 ]
+				},
+				{
+					m_name = "bip01_Spine2"
+					m_Translation = [ 2.658451, 0.582148, 43.498867 ]
+					m_Rotation = [ -84.624512, -70.972107, 0.65317 ]
+				},
+				{
+					m_name = "bip01_Spine3"
+					m_Translation = [ 4.205966, 0.59941, 47.99876 ]
+					m_Rotation = [ -84.624512, -70.972107, 0.65317 ]
+				},
+				{
+					m_name = "bip01_Neck"
+					m_Translation = [ 6.097929, 0.62086, 53.488998 ]
+					m_Rotation = [ -83.655479, -73.955017, -0.362742 ]
+				},
+				{
+					m_name = "bip01_l_Arm"
+					m_Translation = [ 5.762133, 3.975766, 53.591679 ]
+					m_Rotation = [ 19.144852, 9.086791, 99.474197 ]
+				},
+				{
+					m_name = "bip01_l_Arm1"
+					m_Translation = [ 5.214848, 8.052176, 50.856598 ]
+					m_Rotation = [ 60.861664, 61.141087, 149.357635 ]
+				},
+				{
+					m_name = "bip01_l_Arm2"
+					m_Translation = [ -1.194995, 11.849461, 37.338047 ]
+					m_Rotation = [ -3.949939, 76.375305, 81.316772 ]
+				},
+				{
+					m_name = "bip01_l_Hand"
+					m_Translation = [ -0.733288, 14.872252, 24.723467 ]
+					m_Rotation = [ 17.730444, 62.019436, 106.150871 ]
+				},
+				{
+					m_name = "bip01_l_Finger0"
+					m_Translation = [ -1.033564, 13.788758, 25.073357 ]
+					m_Rotation = [ -143.890915, 33.189022, -130.114807 ]
+				},
+				{
+					m_name = "bip01_r_Arm"
+					m_Translation = [ 6.436172, -2.733779, 53.385616 ]
+					m_Rotation = [ 160.62146, 12.579887, -88.044769 ]
+				},
+				{
+					m_name = "bip01_r_Arm1"
+					m_Translation = [ 5.214874, -6.887883, 50.85659 ]
+					m_Rotation = [ 122.216278, 60.119217, -145.826614 ]
+				},
+				{
+					m_name = "bip01_r_Arm2"
+					m_Translation = [ -1.147461, -11.207521, 37.473049 ]
+					m_Rotation = [ -178.124863, 74.589851, -82.531677 ]
+				},
+				{
+					m_name = "bip01_r_Hand"
+					m_Translation = [ -0.673208, -14.825002, 24.237942 ]
+					m_Rotation = [ 134.538239, 59.133011, -138.762924 ]
+				},
+				{
+					m_name = "bip01_r_Finger0"
+					m_Translation = [ -0.757939, -13.327109, 24.288473 ]
+					m_Rotation = [ -39.193947, 26.012417, 133.602615 ]
+				},
+				{
+					m_name = "Bone07"
+					m_Translation = [ 1.735369, -2.729338, 37.411705 ]
+					m_Rotation = [ 89.99987, 0.000114, -0.00006 ]
+				},
+			]
+			m_morphFlag = [  ]
+			m_userFlag = [  ]
+		}
+	}
+	m_pSeqGroup = 
+	{
+		m_pObject = null
+	}
+	m_pAnimGroups = [  ]
+	m_Vanim = 
+	[
+		{
+			m_Animationname = "attack1"
+			m_Filepath = "models/zombie/zombie_anims/attack1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 35
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_MELEE_ATTACK1"
+					m_nWeight = 5
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "attack2"
+			m_Filepath = "models/zombie/zombie_anims/attack2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_MELEE_ATTACK1"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "bigflinch"
+			m_Filepath = "models/zombie/zombie_anims/bigflinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_BIG_FLINCH"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "bust_window"
+			m_Filepath = "models/zombie/zombie_anims/bust_window.smd"
+			m_nStartframe = 0
+			m_nEndframe = 97
+			m_flFps = 26.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "busting_through_wall"
+			m_Filepath = "models/zombie/zombie_anims/busting_through_wall.smd"
+			m_nStartframe = 0
+			m_nEndframe = 21
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "c2a3_snack_getup"
+			m_Filepath = "models/zombie/zombie_anims/c2a3_snack_getup.smd"
+			m_nStartframe = 0
+			m_nEndframe = 120
+			m_flFps = 12.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "deadidle"
+			m_Filepath = "models/zombie/zombie_anims/deadidle.smd"
+			m_nStartframe = 0
+			m_nEndframe = 40
+			m_flFps = 14.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "deadwall"
+			m_Filepath = "models/zombie/zombie_anims/deadwall.smd"
+			m_nStartframe = 0
+			m_nEndframe = 25
+			m_flFps = 16.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "diebackward"
+			m_Filepath = "models/zombie/zombie_anims/diebackward.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIEBACKWARD"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 10
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dieforward"
+			m_Filepath = "models/zombie/zombie_anims/dieforward.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIEFORWARD"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 21
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dieheadshot"
+			m_Filepath = "models/zombie/zombie_anims/dieheadshot.smd"
+			m_nStartframe = 0
+			m_nEndframe = 26
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIE_HEADSHOT"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 19
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "dieheadshot2"
+			m_Filepath = "models/zombie/zombie_anims/dieheadshot2.smd"
+			m_nStartframe = 0
+			m_nEndframe = 28
+			m_flFps = 22.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIE_GUTSHOT"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 18
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "diesimple"
+			m_Filepath = "models/zombie/zombie_anims/diesimple.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_DIESIMPLE"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_NPC_BODYDROP_LIGHT"
+					m_nFrame = 1
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "eat_to_stand"
+			m_Filepath = "models/zombie/zombie_anims/eat_to_stand.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "eatbody"
+			m_Filepath = "models/zombie/zombie_anims/eatbody.smd"
+			m_nStartframe = 0
+			m_nEndframe = 40
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "eatbodystand"
+			m_Filepath = "models/zombie/zombie_anims/eatbodystand.smd"
+			m_nStartframe = 0
+			m_nEndframe = 60
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "eatbodytable"
+			m_Filepath = "models/zombie/zombie_anims/eatbodytable.smd"
+			m_nStartframe = 0
+			m_nEndframe = 60
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "falling"
+			m_Filepath = "models/zombie/zombie_anims/falling.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 26.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "flinch"
+			m_Filepath = "models/zombie/zombie_anims/flinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 22.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_SMALL_FLINCH"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "flinchsmall"
+			m_Filepath = "models/zombie/zombie_anims/flinchsmall.smd"
+			m_nStartframe = 0
+			m_nEndframe = 6
+			m_flFps = 22.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_SMALL_FLINCH"
+					m_nWeight = 5
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "freak"
+			m_Filepath = "models/zombie/zombie_anims/freak.smd"
+			m_nStartframe = 0
+			m_nEndframe = 16
+			m_flFps = 16.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_SCRIPT_EVENT_FIREEVENT"
+					m_nFrame = 2
+					m_DataString = "freak"
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "freakdie"
+			m_Filepath = "models/zombie/zombie_anims/freakdie.smd"
+			m_nStartframe = 0
+			m_nEndframe = 8
+			m_flFps = 12.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_SCRIPT_EVENT_DEAD"
+					m_nFrame = 0
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "getup"
+			m_Filepath = "models/zombie/zombie_anims/getup.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "haulzombie"
+			m_Filepath = "models/zombie/zombie_anims/haulzombie.smd"
+			m_nStartframe = 0
+			m_nEndframe = 110
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = 
+			[
+				{
+					m_nFrame = 0
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 1
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 2
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 3
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 4
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 5
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 6
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 7
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 8
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 9
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 10
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 11
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 12
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 13
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 14
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 15
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 16
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 17
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 18
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 19
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 20
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 21
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 22
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 23
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 24
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 25
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 26
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 27
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 28
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 29
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 30
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 31
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 32
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 33
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 34
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 35
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 36
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 37
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 38
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 39
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 40
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 41
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 42
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 43
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 44
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 45
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 46
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 47
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 48
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 49
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 50
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 51
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 52
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 53
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 54
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 55
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 56
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 57
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 58
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 59
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 60
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 61
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 62
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 63
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 64
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 65
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 66
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 67
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 68
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 69
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 70
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 71
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 72
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 73
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 74
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 75
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 76
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 77
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 78
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 79
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 80
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 81
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 82
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 83
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 84
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 85
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 86
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 87
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 88
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 89
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 90
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 91
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 92
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 93
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 94
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 95
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 96
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 97
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 98
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 99
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 100
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 101
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 102
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 103
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 104
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 105
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 106
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 107
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 108
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 109
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 110
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+			]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "idle1"
+			m_Filepath = "models/zombie/zombie_anims/idle1.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_IDLE"
+					m_nWeight = 4
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "kick_punch_wall"
+			m_Filepath = "models/zombie/zombie_anims/kick_punch_wall.smd"
+			m_nStartframe = 0
+			m_nEndframe = 65
+			m_flFps = 14.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "laflinch"
+			m_Filepath = "models/zombie/zombie_anims/laflinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_FLINCH_LEFTARM"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "llflinch"
+			m_Filepath = "models/zombie/zombie_anims/llflinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_FLINCH_LEFTLEG"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "pause"
+			m_Filepath = "models/zombie/zombie_anims/pause.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "raflinch"
+			m_Filepath = "models/zombie/zombie_anims/raflinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_FLINCH_RIGHTARM"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "ripdoor"
+			m_Filepath = "models/zombie/zombie_anims/ripdoor.smd"
+			m_nStartframe = 0
+			m_nEndframe = 120
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 1
+					m_DataString = "HL1.debris.bustcrate1"
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "rlflinch"
+			m_Filepath = "models/zombie/zombie_anims/rlflinch.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 30.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_FLINCH_RIGHTLEG"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "slideidle"
+			m_Filepath = "models/zombie/zombie_anims/slideidle.smd"
+			m_nStartframe = 0
+			m_nEndframe = 40
+			m_flFps = 16.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "slidewall"
+			m_Filepath = "models/zombie/zombie_anims/slidewall.smd"
+			m_nStartframe = 0
+			m_nEndframe = 40
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_SCRIPT_EVENT_DEAD"
+					m_nFrame = 1
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "soda"
+			m_Filepath = "models/zombie/zombie_anims/soda.smd"
+			m_nStartframe = 0
+			m_nEndframe = 85
+			m_flFps = 26.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 63
+					m_DataString = "HL1.buttons.latchunlocked1"
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "turnleft"
+			m_Filepath = "models/zombie/zombie_anims/turnleft.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_TURN_LEFT"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "turnright"
+			m_Filepath = "models/zombie/zombie_anims/turnright.smd"
+			m_nStartframe = 0
+			m_nEndframe = 15
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_TURN_RIGHT"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "vent_c1a3"
+			m_Filepath = "models/zombie/zombie_anims/vent_c1a3.smd"
+			m_nStartframe = 0
+			m_nEndframe = 120
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_SCRIPT_EVENT_DEAD"
+					m_nFrame = 1
+					m_DataString = ""
+				},
+			]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "vent_zidle"
+			m_Filepath = "models/zombie/zombie_anims/vent_zidle.smd"
+			m_nStartframe = 0
+			m_nEndframe = 1
+			m_flFps = 18.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "ventclimb"
+			m_Filepath = "models/zombie/zombie_anims/ventclimb.smd"
+			m_nStartframe = 0
+			m_nEndframe = 17
+			m_flFps = 20.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "ventclimbidle"
+			m_Filepath = "models/zombie/zombie_anims/ventclimbidle.smd"
+			m_nStartframe = 0
+			m_nEndframe = 20
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "walk"
+			m_Filepath = "models/zombie/zombie_anims/walk.smd"
+			m_nStartframe = 0
+			m_nEndframe = 59
+			m_flFps = 22.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = 
+			[
+				{
+					m_Name = "ACT_WALK"
+					m_nWeight = 1
+				},
+			]
+			m_AnimationEvents = 
+			[
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 2
+					m_DataString = "HL1.common.npc_step1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 12
+					m_DataString = "HL1.common.npc_step3"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 22
+					m_DataString = "HL1.common.npc_step2"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 31
+					m_DataString = "HL1.common.npc_step4"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 41
+					m_DataString = "HL1.common.npc_step1"
+				},
+				{
+					m_Event = "AE_CL_PLAYSOUND"
+					m_nFrame = 51
+					m_DataString = "HL1.common.npc_step3"
+				},
+			]
+			m_MotionFrames = 
+			[
+				{
+					m_nFrame = 0
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 1
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 2
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 3
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 4
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 5
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 6
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 7
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 8
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 9
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 10
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 11
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 12
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 13
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 14
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 15
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 16
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 17
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 18
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 19
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 20
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 21
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 22
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 23
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 24
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 25
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 26
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 27
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 28
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 29
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 30
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 31
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 32
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 33
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 34
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 35
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 36
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 37
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 38
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 39
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 40
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 41
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 42
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 43
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 44
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 45
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 46
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 47
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 48
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 49
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 50
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 51
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 52
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 53
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 54
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 55
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 56
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 57
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 58
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+				{
+					m_nFrame = 59
+					m_bExtractTX = true
+					m_bExtractTY = true
+					m_bExtractTZ = false
+					m_bExtractRX = false
+					m_bExtractRY = false
+					m_bExtractRZ = false
+					m_bDiscardTX = false
+					m_bDiscardTY = false
+					m_bDiscardTZ = false
+					m_bDiscardRX = false
+					m_bDiscardRY = false
+					m_bDiscardRZ = false
+				},
+			]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "zombie_eating"
+			m_Filepath = "models/zombie/zombie_anims/zombie_eating.smd"
+			m_nStartframe = 0
+			m_nEndframe = 30
+			m_flFps = 15.0
+			m_Loop = 
+			{
+				m_bLoop = true
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+		{
+			m_Animationname = "zombie_pull_scientist"
+			m_Filepath = "models/zombie/zombie_anims/zombie_pull_scientist.smd"
+			m_nStartframe = 0
+			m_nEndframe = 120
+			m_flFps = 17.0
+			m_Loop = 
+			{
+				m_bLoop = false
+				m_bSmoothLoop = false
+				m_nSmoothLoopStart = 0
+				m_nSmoothLoopEnd = 0
+				m_StartLoop = 
+				{
+					_class = "CVAnimCmdStartLoop"
+					m_bEnabled = false
+					m_nLoopRestart = 0
+				}
+			}
+			m_bHidden = false
+			m_bDisable = false
+			m_Activities = [  ]
+			m_AnimationEvents = [  ]
+			m_MotionFrames = [  ]
+			m_pIkRules = [  ]
+			m_pAlignAnimation = null
+			m_adjustAnimation = 
+			{
+				m_translation = [ 0.0, 0.0, 0.0 ]
+				m_rotation = [ 0.0, 0.0, 0.0 ]
+			}
+			m_Keywords = [  ]
+			m_sequenceParams = 
+			{
+				m_flFadeInTime = 0.2
+				m_flFadeOutTime = 0.2
+			}
+			m_folderName = ""
+			m_MotionFramesRootBone = ""
+		},
+	]
+	m_sScripts = [  ]
+	m_folderNames = [  ]
+	m_sCompileScripts = [  ]
+	m_pActivityWhiteList = 
+	{
+		m_pObject = null
+	}
+}

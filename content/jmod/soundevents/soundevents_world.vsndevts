@@ -3400,6 +3400,14 @@
 		mixgroup = "World"
 		vsnd_files = "sounds/barney/beenzapped.vsnd"
 	}
+	Jamie.Barney.HeadDown = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/barney/c1a0_ba_headdown.vsnd"
+	}
 	Jamie.Scientist.Use = 
 	{
 		type = "hlvr_default_3d"
@@ -3888,6 +3896,14 @@
 		use_hrtf = 1.000000
 		mixgroup = "World"
 		vsnd_files = "sounds/player/pl_metal4.vsnd"
+	}
+	HL1.player.lightswitch2 = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.000000
+		use_hrtf = 1.000000
+		mixgroup = "World"
+		vsnd_files = "sounds/buttons/lightswitch2.vsnd"
 	}
 	hlvr.global_stack = 
 	{

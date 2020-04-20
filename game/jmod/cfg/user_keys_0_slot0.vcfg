@@ -3,5 +3,6 @@
 	"bindings"
 	{
 		"\"		"ai_nodes;ai_show_connect;ai_path_draw 1"
+		"e"		"ent_fire !picker use"
 	}
 }
